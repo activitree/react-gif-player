@@ -1,6 +1,6 @@
 {
   "name": "@activitree/react-gif-player",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "React component swaps still image with preloaded GIF on click",
   "main": "dist/gifplayer.js",
   "scripts": {
@@ -53,7 +53,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "peerDependencies": {
-    "react": "^16.0.0 || ^17.0.0 "
+    "react": "^17.0.0 || ^18.0.0"
   },
   "repository": {
     "type": "git",
@@ -64,6 +64,6 @@
   },
   "homepage": "https://github.com/benwiley4000/react-gif-player#readme",
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.8.1"
   }
 }
